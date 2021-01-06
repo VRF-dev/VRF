@@ -1,0 +1,17 @@
+{
+  "name": "vrf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "frg-ethereum-runners": "git+https://github.com/ampleforth/frg-ethereum-runners.git#v1.0.0-alpha",
+    "openzeppelin-eth": "^2.2.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
